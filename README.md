@@ -16,7 +16,7 @@ project built by
     - Sujal Sarangdhar
     - Tejas More
  
- Bacend Developers
+ Backend Developers
     - Dashrath Yadav
     - Sachin Kumar
     - Yash Patil
